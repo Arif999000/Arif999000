@@ -1,6 +1,4 @@
-    ak
-    
-    
+
 - 👋 Hi, I’m @Arif999000
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
